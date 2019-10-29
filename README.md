@@ -1,4 +1,6 @@
-## User Stories
+## Consume£€$$
+
+### User Stories
 
 ```
 As a user
@@ -50,7 +52,7 @@ I want to see a nice infographic
 So that I can see my ranking
 ```
 
-## Stretch goals
+### Stretch goals
 - Take payment for group share perchases
 - Use google gps to identify nearest items to me
 - Register credit card to pay any fines occured
