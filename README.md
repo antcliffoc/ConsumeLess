@@ -44,6 +44,10 @@ So that I can referee disputes
 As a lender
 I want to fine borrowers if they return late
 So that I don't lose my stuff
+
+As a user
+I want to see a nice infographic 
+So that I can see my ranking
 ```
 
 ## Stretch goals
