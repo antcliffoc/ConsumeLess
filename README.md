@@ -9,6 +9,9 @@ The backend is built in Python with Flask, and the frontend is built with React.
 [ConsumeLess - Frontend](https://github.com/antcliffoc/ConsumeLess-frontend)   
 [ConsumeLess - Backend](https://github.com/antcliffoc/ConsumeLess-backend)
 
+### Screen Grab
+![Browse](Consumeless_browse.png)
+
 ### User Stories
 
 ```
