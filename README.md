@@ -6,8 +6,8 @@ This application aims to encourage reuse of little used items in order to reduce
 
 The backend is built in Python with Flask, and the frontend is built with React. Links to the two repositories are as follows:
 
-[ConsumeLess - Frontend](https://github.com/xiaofeizhang19/ConsumeLess-frontend)   
-[ConsumeLess - Backend](https://github.com/xiaofeizhang19/ConsumeLess-backend)
+[ConsumeLess - Frontend](https://github.com/antcliffoc/ConsumeLess-frontend)   
+[ConsumeLess - Backend](https://github.com/antcliffoc/ConsumeLess-backend)
 
 ### User Stories
 
